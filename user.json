@@ -2,11 +2,11 @@
   "id": 3,
   "name": "Terri Jones",
   "username": "webdevterri",
-  "email": "webdevterri@protonmail.com",
+  "email": "📧 webdevterri@protonmail.com",
   "address": {
     "street": "123 Somewhere St.",
     "suite": "N/A",
-    "city": "Memphis",
+    "city": "📍 Memphis",
     "state": "TN",
     "zipcode": "38127",
     "geo": {
@@ -14,11 +14,11 @@
       "lng": "-47.0653"
     }
   },
-  "phone": "1-901-213-8127",
-  "website": "webdevterri.com",
+  "phone": "📞 1-901-213-8127",
+  "website": "💾 webdevterri.com",
   "company": {
     "name": "webdevterri",
-    "catchPhrase": "Software Engineer working with JavaScript & Python.",
-    "bs": "front end web developer for hire"
+    "catchPhrase": "Software Engineer / Front End Web Developer",
+    "bs": "👩🏻‍💻 for hire 💻"
   }
 }
