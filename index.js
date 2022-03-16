@@ -46,8 +46,7 @@ getUser().then(user => {
     <div>${user.phone}</div>
   </div>
   <div class="user-profile-address">
-    <div>${user.address.street}, ${user.address.suite}</div>
-    <div>${user.address.city}, ${user.address.zipcode}</div>
+    <div>${user.address.city}, ${user.address.state} ${user.address.zipcode}</div>
   </div>
 </div>`
 })

@@ -1,23 +1,24 @@
 {
   "id": 3,
-  "name": "Clementine Bauch",
-  "username": "Samantha",
-  "email": "Nathan@yesenia.net",
+  "name": "Terri Jones",
+  "username": "webdevterri",
+  "email": "webdevterri@protonmail.com",
   "address": {
-    "street": "Douglas Extension",
-    "suite": "Suite 847",
-    "city": "McKenziehaven",
-    "zipcode": "59590-4157",
+    "street": "123 Somewhere St.",
+    "suite": "N/A",
+    "city": "Memphis",
+    "state": "TN",
+    "zipcode": "38127",
     "geo": {
       "lat": "-68.6102",
       "lng": "-47.0653"
     }
   },
-  "phone": "1-463-123-4447",
-  "website": "ramiro.info",
+  "phone": "1-901-213-8127",
+  "website": "webdevterri.com",
   "company": {
-    "name": "Romaguera-Jacobson",
-    "catchPhrase": "Face to face bifurcated interface",
-    "bs": "e-enable strategic applications"
+    "name": "webdevterri",
+    "catchPhrase": "Software Engineer working with JavaScript & Python.",
+    "bs": "front end web developer for hire"
   }
 }
