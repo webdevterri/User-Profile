@@ -18,19 +18,21 @@ html, body {
 .user-profile-header {
   display: flex;
   justify-content: space-between;
-  background-color: aquamarine;
+  background-color: lightpink;
   padding: 0.5rem;
   font-size: 1.2rem;
 }
 
-.user-profile-company {
+.user-profile-company,
+.user-profile-contact {
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: lightgoldenrodyellow;
-  margin: 0.3rem;
+  margin: 1rem;
   border: solid black 0.1rem;
   border-radius: 1rem;
+  box-shadow: 10px 10px 0 black;
 }
 
 .user-profile-company > div {
@@ -38,22 +40,26 @@ html, body {
   font-size: 1.1rem;
 }
 
+.company-name,
+.contact-info {
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  padding: 0.5rem;
+}
+
 .user-profile-contact {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   font-size: 1.2rem;
-  border: solid black 0.1rem;
-  background-color: lightgreen;
 }
 
 .user-profile-contact > div {
-  margin: 0.3rem;
+  margin: 0.2rem;
 }
 
 .user-profile-address {
   display: flex;
+  justify-content: right;
   font-size: 1.1rem;
-  background-color: aquamarine;
+  background-color: lightpink;
   padding: 0.3rem;
 }

@@ -36,11 +36,12 @@ getUser().then(user => {
     <div>@${user.username}</div>
   </div>
   <div class="user-profile-company">
-    <div>${user.company.name}</div>
+    <div class="company-name">${user.company.name}</div>
     <div>${user.company.catchPhrase}</div>
     <div>${user.company.bs}</div>
   </div>
   <div class="user-profile-contact">
+    <div class="contact-info">Contact Info</div>
     <div>${user.email}</div>
     <div>${user.website}</div>
     <div>${user.phone}</div>
